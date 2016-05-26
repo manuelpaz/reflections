@@ -3,3 +3,6 @@ A folder is created called .git, I need intialize the repository for commands of
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Thea staging area is different from the working directory and the repository because it contains the files we want to tracking 
+
+How can you use the staging area to make sure you have one commit per logical change?
+In staging area I can see the files that will be committed
