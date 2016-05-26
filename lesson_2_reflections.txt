@@ -6,3 +6,6 @@ Thea staging area is different from the working directory and the repository bec
 
 How can you use the staging area to make sure you have one commit per logical change?
 In staging area I can see the files that will be committed
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When making a fix bug, edit documentation, adding new features.
