@@ -12,3 +12,6 @@ When making a fix bug, edit documentation, adding new features.
 
 How do the diagrams help you visualize the branch structure?
 They showme the history of commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is have one branch with changes in two branches.
