@@ -1,1 +1,2 @@
 When would you want to use a remote repository rather than keeping all your work local?
+Is necessary when I want to work in a colaborative way.
